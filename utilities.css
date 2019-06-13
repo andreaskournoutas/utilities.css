@@ -1,14 +1,110 @@
 .t-0 {
     top: 0 !important;
 }
+.t-05 {
+    top: .5rem !important;
+}
+.t-1 {
+    top: 1rem !important;
+}
+.t-15 {
+    top: 1.5rem !important;
+}
+.t-2 {
+    top: 2rem !important;
+}
+.t-25 {
+    top: 2.5rem !important;
+}
+.t-3 {
+    top: 3rem !important;
+}
+.t-35 {
+    top: 3.5rem !important;
+}
+.t-4 {
+    top: 4rem !important;
+}
 .r-0 {
     right: 0 !important;
+}
+.r-05 {
+    right: .5rem !important;
+}
+.r-1 {
+    right: 1rem !important;
+}
+.r-15 {
+    right: 1.5rem !important;
+}
+.r-2 {
+    right: 2rem !important;
+}
+.r-25 {
+    right: 2.5rem !important;
+}
+.r-3 {
+    right: 3rem !important;
+}
+.r-35 {
+    right: 3.5rem !important;
+}
+.r-4 {
+    right: 4rem !important;
 }
 .b-0 {
     bottom: 0 !important;
 }
+.b-05 {
+    bottom: .5rem !important;
+}
+.b-1 {
+    bottom: 1rem !important;
+}
+.b-15 {
+    bottom: 1.5rem !important;
+}
+.b-2 {
+    bottom: 2rem !important;
+}
+.b-25 {
+    bottom: 2.5rem !important;
+}
+.b-3 {
+    bottom: 3rem !important;
+}
+.b-35 {
+    bottom: 3.5rem !important;
+}
+.b-4 {
+    bottom: 4rem !important;
+}
 .l-0 {
     left: 0 !important;
+}
+.l-05 {
+    left: .5rem !important;
+}
+.l-1 {
+    left: 1rem !important;
+}
+.l-15 {
+    left: 1.5rem !important;
+}
+.l-2 {
+    left: 2rem !important;
+}
+.l-25 {
+    left: 2.5rem !important;
+}
+.l-3 {
+    left: 3rem !important;
+}
+.l-35 {
+    left: 3.5rem !important;
+}
+.l-4 {
+    left: 4rem !important;
 }
 .m-0, .my-0, .mt-0 {
     margin-top: 0 !important;
