@@ -388,6 +388,9 @@
     top: 50% !important;
     transform: translateY(-50%) !important;
 }
+.cx.cy {
+    transform: translateX(-50%) translateY(-50%) !important;
+}
 .h-100vh {
     height: 100vh !important;
 }
