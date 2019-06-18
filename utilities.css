@@ -376,10 +376,6 @@
 .lh-1 {
     line-height: 1 !important;
 }
-.cx-wm {
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
 .cx {
     left: 50% !important;
     transform: translateX(-50%) !important;
