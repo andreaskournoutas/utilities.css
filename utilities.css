@@ -403,6 +403,27 @@
 .border-left-0 {
     border-left: 0 !important;
 }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0;
+}
+.h1 {
+    font-size: 2.5rem;
+} 
+.h2 {
+    font-size: 2rem;
+} 
+.h3 {
+    font-size: 1.75rem;
+} 
+.h4 {
+    font-size: 1.5rem;
+} 
+.h5 {
+    font-size: 1.25rem;
+}  
+.h6 {
+    font-size: 1rem;
+}
 .shadow-inverse {
     box-shadow: 0 -.5rem 1rem rgba(0,0,0,.15)!important;
 }
@@ -832,6 +853,24 @@
     .border-sm-left-0 {
         border-left: 0 !important;
     }
+    .sm-h1 {
+        font-size: 2.5rem;
+    } 
+    .sm-h2 {
+        font-size: 2rem;
+    } 
+    .sm-h3 {
+        font-size: 1.75rem;
+    } 
+    .sm-h4 {
+        font-size: 1.5rem;
+    } 
+    .sm-h5 {
+        font-size: 1.25rem;
+    }  
+    .sm-h6 {
+        font-size: 1rem;
+    }
 }
 @media (min-width: 768px) {
     .t-md-0 {
@@ -1238,7 +1277,25 @@
     }
     .border-md-left-0 {
         border-left: 0 !important;
-    }    
+    }
+    .md-h1 {
+        font-size: 2.5rem;
+    } 
+    .md-h2 {
+        font-size: 2rem;
+    } 
+    .md-h3 {
+        font-size: 1.75rem;
+    } 
+    .md-h4 {
+        font-size: 1.5rem;
+    } 
+    .md-h5 {
+        font-size: 1.25rem;
+    }  
+    .md-h6 {
+        font-size: 1rem;
+    }   
 }
 @media (min-width: 992px) {
     .t-lg-0 {
@@ -1645,7 +1702,25 @@
     }
     .border-lg-left-0 {
         border-left: 0 !important;
-    }    
+    }
+    .lg-h1 {
+        font-size: 2.5rem;
+    } 
+    .lg-h2 {
+        font-size: 2rem;
+    } 
+    .lg-h3 {
+        font-size: 1.75rem;
+    } 
+    .lg-h4 {
+        font-size: 1.5rem;
+    } 
+    .lg-h5 {
+        font-size: 1.25rem;
+    }  
+    .lg-h6 {
+        font-size: 1rem;
+    }
 }
 @media (min-width: 1200px) {
     .t-xl-0 {
@@ -2052,5 +2127,23 @@
     }
     .border-xl-left-0 {
         border-left: 0 !important;
+    }
+    .xl-h1 {
+        font-size: 2.5rem;
+    } 
+    .xl-h2 {
+        font-size: 2rem;
+    } 
+    .xl-h3 {
+        font-size: 1.75rem;
+    } 
+    .xl-h4 {
+        font-size: 1.5rem;
+    } 
+    .xl-h5 {
+        font-size: 1.25rem;
+    }  
+    .xl-h6 {
+        font-size: 1rem;
     }
 }
